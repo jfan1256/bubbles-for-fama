@@ -1,6 +1,3 @@
-# bubblefacto
-Bubbles in Fama
-
 ## Introduction
 This repo replicates Bubbles for Fama (Greenwood et al.). https://scholar.harvard.edu/files/shleifer/files/bffs_20170217.pdf. I recommend reading this paper before running this code. 
 
